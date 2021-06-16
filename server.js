@@ -9,4 +9,6 @@ http.createServer(function (req,res){
   }).resume();
 }).listen(8080);
 
-console.log('Servidor criado com sucesso, localhost:8080');
+console.log('Servidor criado com sucesso');
+
+// Para iniciar o projeto digite o comando: node server.js
