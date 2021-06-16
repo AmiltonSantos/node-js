@@ -11,4 +11,5 @@ http.createServer(function (req,res){
 
 console.log('Servidor criado com sucesso');
 
-// Para iniciar o projeto digite o comando: node server.js
+// Para iniciar o projeto digite no terminal o comando: node server.js
+// Não rodar no brawser em MODO ANÔNIMO, pois o serviço não vai ser iniciado
